@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 39d2b26e7ff5b4701be6f71489dfe9c2
+timeCreated: 1476150070
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ext-wall_A
+    100002: ext-wall_B
+    100004: floor_A
+    100006: floor_B
+    100008: floor_C
+    100010: floor_D
+    100012: floor_E
+    100014: floor_F
+    100016: int-wall-balcony
+    100018: int-wall-bridge_A
+    100020: int-wall-bridge_B
+    100022: int-wall-corner-ext
+    100024: int-wall-corner-int
+    100026: int-wall-ramp
+    100028: int-wall_A
+    100030: int-wall_B
+    100032: street-lamp
+    100034: //RootNode
+    400000: ext-wall_A
+    400002: ext-wall_B
+    400004: floor_A
+    400006: floor_B
+    400008: floor_C
+    400010: floor_D
+    400012: floor_E
+    400014: floor_F
+    400016: int-wall-balcony
+    400018: int-wall-bridge_A
+    400020: int-wall-bridge_B
+    400022: int-wall-corner-ext
+    400024: int-wall-corner-int
+    400026: int-wall-ramp
+    400028: int-wall_A
+    400030: int-wall_B
+    400032: street-lamp
+    400034: //RootNode
+    2300000: ext-wall_A
+    2300002: ext-wall_B
+    2300004: floor_A
+    2300006: floor_B
+    2300008: floor_C
+    2300010: floor_D
+    2300012: floor_E
+    2300014: floor_F
+    2300016: int-wall-balcony
+    2300018: int-wall-bridge_A
+    2300020: int-wall-bridge_B
+    2300022: int-wall-corner-ext
+    2300024: int-wall-corner-int
+    2300026: int-wall-ramp
+    2300028: int-wall_A
+    2300030: int-wall_B
+    2300032: street-lamp
+    3300000: ext-wall_A
+    3300002: ext-wall_B
+    3300004: floor_A
+    3300006: floor_B
+    3300008: floor_C
+    3300010: floor_D
+    3300012: floor_E
+    3300014: floor_F
+    3300016: int-wall-balcony
+    3300018: int-wall-bridge_A
+    3300020: int-wall-bridge_B
+    3300022: int-wall-corner-ext
+    3300024: int-wall-corner-int
+    3300026: int-wall-ramp
+    3300028: int-wall_A
+    3300030: int-wall_B
+    3300032: street-lamp
+    4300000: ext-wall_A
+    4300002: floor_D
+    4300004: floor_E
+    4300006: floor_F
+    4300008: floor_C
+    4300010: floor_B
+    4300012: ext-wall_B
+    4300014: int-wall-bridge_B
+    4300016: int-wall-bridge_A
+    4300018: street-lamp
+    4300020: int-wall_B
+    4300022: int-wall-balcony
+    4300024: int-wall-ramp
+    4300026: floor_A
+    4300028: int-wall-corner-int
+    4300030: int-wall_A
+    4300032: int-wall-corner-ext
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
